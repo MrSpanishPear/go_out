@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.textContainer { 
+  display: inline-block;
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding: 0 3%;
+  background-color: black;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.YesNoText {
+  font-size: 6em;
+  display: None;
+  margin-top: 30%;
+  margin-bottom: 50%;
+  top:5%;
+  left: 5%;
+}
+
